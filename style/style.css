@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Inter';
+}
+
+html, body {
+    background-color: #2A2A2A;
+}
+
+.container {
+    position: relative;
+    border: 2px solid red;
+    width: 1440px;
+    height: 2561px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.frame {
+    border: 2px solid red;
+    width: 1233px;
+    height: 2439px;
+    margin-left: 104px;
+    margin-top: 56px;
+}
+
+.frame .frame1 {
+    border: 1px solid red;
+    width: 1201px;
+    height: 51px;
+    display: flex;
+    margin-left: 16px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.frame1 h1 {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #1AA37A;
+}
+
+.frame1p1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #B6B6B6;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-left: 798px;
+}
+
+.frame1group {
+    border: 1px solid red;
+    width: 442px;
+    height: 51px;
+    margin-left: 759px;
+    gap: 32px;
+    display: flex;
+}
+
+.frame1group .grouptext {
+    border: 1px solid red;
+    width: 260px;
+    height: 19px;
+    margin-top: 16px;
+    display: flex;
+    gap: 32px;
+}
+
+.frame1group .grouptext p {
+    width: 60px;
+    height: 19px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #B6B6B6;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    cursor: pointer;
+}
+
+.groupbtn button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 32px;
+    gap: 10px;
+    width: 150px;
+    height: 51px;
+    background: #1AA37A;
+    box-shadow: 0px 10px 57px rgba(157, 255, 179, 0.2);
+    border-radius: 40px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.groupbtn button p {   
+    width: 86px;
+    height: 19px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+/* Frame 2 */
+
+.frame2 {
+    border: 2px solid red;
+    width: 1200px;
+    height: 669px;
+    margin-top: 112px;
+    margin-left: 16.5px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.frame2group {
+    border: 1px solid red;
+    width: 1167.88px;
+    height: 654px;
+}
+
+.frame2group .group1 {
+    border: 0.5px solid red;
+    width: 582px;
+    height: 557px;
+}
+
+.frame2group .group2 {
+    border: 1px solid red;
+    width: 582px;
+    height: 116px;
+    gap: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+}
+
+.group2 p {
+    position: absolute;
+    width: 582px;
+    height: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+
+.group2 font {
+    color: #1AA37A;
+}
+
+.group2 .vector {
+    position: absolute;
+    margin-left: 270px;
+    margin-top: 52px;
+    width: 121.69px;
+    border: 2px solid #1AA37A;
+    transform: rotate(-3deg);
+    border-radius: 100% / 30px 100px 0 0;
+}
+
+.group3 {
+    border: 1px solid red;
+    width: 577px;
+    height: 377px;
+    margin-top: 64px;
+    margin-left: 5px;
+}
