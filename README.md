@@ -4,4 +4,5 @@
 
 ![landingpage2](https://github.com/shamsky777/Landing-Page/assets/111402885/ebadcb7b-22be-4d94-a560-9a0cbbc25419)
 
-![landingpage3](https://github.com/shamsky777/Landing-Page/assets/111402885/d69fff08-b057-42d1-a2dd-98aeaba67798)
+
+![landingpage3](https://github.com/shamsky777/Landing-Page/assets/111402885/cf82074e-c0d2-4925-8657-2cafce42c53e)
