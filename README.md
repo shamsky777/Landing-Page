@@ -1,8 +1,7 @@
 # Landing-Page
 
-![landingpage1](https://github.com/shamsky777/Landing-Page/assets/111402885/dfb3d0b6-527c-467b-bf3b-94aa64720eb1)
+![image](https://github.com/shamsky777/Landing-Page/assets/111402885/f2e3b14d-243f-4434-89f7-4adf8733aeef)
 
-![landingpage2](https://github.com/shamsky777/Landing-Page/assets/111402885/ebadcb7b-22be-4d94-a560-9a0cbbc25419)
+![image](https://github.com/shamsky777/Landing-Page/assets/111402885/177ca78d-b7e9-49a0-8d32-a8c6b4d33939)
 
-
-![landingpage3](https://github.com/shamsky777/Landing-Page/assets/111402885/cf82074e-c0d2-4925-8657-2cafce42c53e)
+![image](https://github.com/shamsky777/Landing-Page/assets/111402885/16b03211-a42c-4660-8147-9a05b768be15)
