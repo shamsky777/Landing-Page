@@ -805,6 +805,7 @@ html, body {
     position: absolute;
     width: 479px;
     height: 51px;
+    color: #ACACAC;
     background: #505050;
     border-radius: 5px;
     margin-top: 28px;
@@ -869,6 +870,7 @@ html, body {
 }
 
 .regcard2group3 input[type=email] {
+    color: #ACACAC;
     width: 479px;
     height: 51px;
     margin-top: 10px;
